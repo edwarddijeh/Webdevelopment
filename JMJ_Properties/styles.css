@@ -1,0 +1,23 @@
+body{
+    color: red;
+}
+
+p{
+    color: orange;
+    margin-left: 8%;
+    word-wrap: break-word;
+}
+
+.box{
+    background-color: aquamarine;
+    margin: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 10px solid black;
+    margin-left: 20px;
+}
+.test{
+    margin-left: 22%;
+    background-color: blue;
+}
